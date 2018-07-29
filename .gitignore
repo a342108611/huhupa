@@ -1,0 +1,5 @@
+.idea
+.svn
+hrm.iml
+target
+base/app/*.log
